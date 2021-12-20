@@ -1,3 +1,6 @@
+#hide api
+config.py
+
 # OS generated files #
 ######################
 .DS_Store
