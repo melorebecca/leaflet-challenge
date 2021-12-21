@@ -1,15 +1,25 @@
 # Leaflet Homework: Visualizing Data with Leaflet
 
-## Background
+## Leaflet-Step-1 Screenshot:
 
-/Users/rebeccamelo/Downloads/emer-virt-data-pt-09-2021-u-c-main 30/15-Mapping-Web/02-Homework/Instructions/Images/1-Logo.png
+<img width="1660" alt="Leaflet-Step-1-Screenshot" src="https://user-images.githubusercontent.com/88587843/146978717-0af22d40-4d11-46d6-aa85-6c952cdf379c.png">
+
+## Leaflet-Step-2 Screenshot:
+<img width="1652" alt="Leaflet-Step-2-Screenshot" src="https://user-images.githubusercontent.com/88587843/146978797-9fa5abb7-55ef-4957-910a-4d9bea91c623.png">
+
+
+---
+
+## Background:
+
+![1-Logo](https://user-images.githubusercontent.com/88587843/146978851-f94a17d3-e928-417b-b8c5-0f8947a049e4.png)
 
 Welcome to the United States Geological Survey, or USGS for short. The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes. As a new hire, you will be helping them out with an exciting new project!
 
 The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. Their hope is that being able to visualize their data will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
 
+<br /> 
 ### Before You Begin
-
 1. Create a new repository for this project called `leaflet-challenge`. **Do not add this homework to an existing repository**.
 
 2. Clone the new repository to your computer.
